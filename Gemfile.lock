@@ -268,7 +268,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   puma (~> 5.0)
-  rails (~> 7.0.4, >= 7.0.4.2)
+  rails (~> 7.0.4, >= 7.0.4.3)
   selenium-webdriver
   solargraph
   sprockets-rails
@@ -280,7 +280,7 @@ DEPENDENCIES
   webdrivers
 
 RUBY VERSION
-   ruby 3.2.2p53
+   ruby 2.7.8p225
 
 BUNDLED WITH
    2.4.8
